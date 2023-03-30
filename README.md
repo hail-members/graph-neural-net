@@ -3,6 +3,9 @@
 This repository contains implementation of GNN models.
 all codes are from https://github.com/pyg-team/pytorch_geometric
 
+especially https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html
+
+
 ## List of contents
 
 - GRN (Graph Recurrent Network): 
@@ -20,9 +23,8 @@ all codes are from https://github.com/pyg-team/pytorch_geometric
 ## requirements
 
 ```bash
-git clone https://github.com/mtiezzi/torch_gnn.git```
 - networkx
-
+- torch geometric
 
 ## Installation
 
