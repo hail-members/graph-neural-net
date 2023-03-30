@@ -5,14 +5,14 @@ all codes are from https://github.com/pyg-team/pytorch_geometric
 
 ## List of contents
 
-- GRN (Graph Recurrent Network): **Explained**
-  - GNN(2009): Maybe?, used implementation of mtiezzi https://github.com/mtiezzi/torch_gnn
-- GCN (Graph Convolutional Network): **Explained**, **Implemented**
+- GRN (Graph Recurrent Network): 
+  - GNN(2009): Maybe? 
+- GCN (Graph Convolutional Network):
   - *used the torch_geometry: * 
   - GCN(2016): 
   - GAT(2017): 
   - DiffPool(2018): 
-- GAE (Graph Auto-Encoder): **Explained**, **Implemented**
+- GAE (Graph Auto-Encoder):
   - https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/nn/models/autoencoder.html
   - VGAE(2018)
   - GAE(2018)
@@ -29,5 +29,5 @@ git clone https://github.com/mtiezzi/torch_gnn.git```
 Many of them are used from implementation that implemented by others. 
 
 ```bash
-
+pip install matplotlib==3.5.1
 ```
